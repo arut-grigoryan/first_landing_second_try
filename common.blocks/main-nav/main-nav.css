@@ -1,0 +1,7 @@
+.main-nav {
+  display: flex;
+  background-color: rgba(19, 19, 19, 1);
+  align-items: center;
+  justify-content: space-between;
+  min-width: min-content;
+}

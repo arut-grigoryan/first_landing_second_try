@@ -1,0 +1,24 @@
+@import "./common.blocks/page/page.css";
+@import "./common.blocks/page/page__header.css";
+
+@import "./common.blocks/text/text.css";
+@import "./common.blocks/text/text--gold.css";
+@import "./common.blocks/text/text--uppercase.css";
+@import "./common.blocks/text/text--center.css";
+
+@import "./common.blocks/text-button/text-button.css";
+@import "./common.blocks/text-button/text-button--italic.css";
+@import "./common.blocks/text-button/text-button--size--s.css";
+
+@import "./common.blocks/main-nav/main-nav.css";
+@import "./common.blocks/main-nav/main-nav__company-name.css";
+@import "./common.blocks/main-nav/main-nav__nav-and-calls.css";
+@import "./common.blocks/main-nav/main-nav__nav.css";
+@import "./common.blocks/main-nav/main-nav__calls.css";
+@import "./common.blocks/main-nav/main-nav__phone.css";
+@import "./common.blocks/main-nav/main-nav__request-call.css";
+
+@import "./common.blocks/nav/nav.css";
+@import "./common.blocks/nav/nav__item.css";
+
+@import "./common.blocks/button/button.css";

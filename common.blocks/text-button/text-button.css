@@ -1,0 +1,10 @@
+.text-button {
+  font-family: "Nunito Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 27px;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+}
