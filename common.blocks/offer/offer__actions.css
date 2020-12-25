@@ -1,0 +1,8 @@
+.offer__actions {
+  width: 100%;
+  max-width: 434px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-width: min-content;
+}

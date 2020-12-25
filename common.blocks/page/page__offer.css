@@ -1,0 +1,27 @@
+.page__offer {
+  min-height: 707px;
+  padding-left: 9.3%;
+  padding-top: 194px;
+  padding-bottom: 208px;
+  box-sizing: border-box;
+  position: relative;
+  background-image: url("./images/offer_background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.page__offer::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+}
+
+.page__offer * {
+  z-index: 2;
+}

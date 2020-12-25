@@ -7,6 +7,9 @@
 @import "./common.blocks/text-button/text-button--italic.css";
 @import "./common.blocks/text-button/text-button--size--s.css";
 
+@import "./common.blocks/header/header.css";
+@import "./common.blocks/header/header--gold.css";
+
 @import "./common.blocks/button/button.css";
 @import "./common.blocks/button/button--radius--2px.css";
 
@@ -15,6 +18,8 @@
 
 @import "./common.blocks/page/page.css";
 @import "./common.blocks/page/page__header.css";
+@import "./common.blocks/page/page__main.css";
+@import "./common.blocks/page/page__offer.css";
 
 @import "./common.blocks/main-nav/main-nav.css";
 @import "./common.blocks/main-nav/main-nav__company-name.css";
@@ -24,7 +29,8 @@
 @import "./common.blocks/main-nav/main-nav__phone.css";
 @import "./common.blocks/main-nav/main-nav__request-call.css";
 
-@import "./common.blocks/nav/nav.css";
-@import "./common.blocks/nav/nav__item.css";
-
-@import "./common.blocks/button/button.css";
+@import "./common.blocks/offer/offer.css";
+@import "./common.blocks/offer/offer__header.css";
+@import "./common.blocks/offer/offer__description.css";
+@import "./common.blocks/offer/offer__actions.css";
+@import "./common.blocks/offer/offer__action.css";
