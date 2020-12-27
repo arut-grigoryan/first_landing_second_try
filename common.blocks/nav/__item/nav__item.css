@@ -1,0 +1,7 @@
+.nav__item {
+  text-decoration: none;
+}
+
+.nav__item:hover {
+  color: #e3b873;
+}

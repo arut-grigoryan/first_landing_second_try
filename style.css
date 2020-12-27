@@ -14,7 +14,7 @@
 @import "./common.blocks/button/button--radius--2px.css";
 
 @import "./common.blocks/nav/nav.css";
-@import "./common.blocks/nav/nav__item.css";
+@import "./common.blocks/nav/__item/nav__item.css";
 
 @import "./common.blocks/page/page.css";
 @import "./common.blocks/page/page__header.css";
@@ -25,6 +25,7 @@
 @import "./common.blocks/main-nav/main-nav__company-name.css";
 @import "./common.blocks/main-nav/main-nav__nav-and-calls.css";
 @import "./common.blocks/main-nav/main-nav__nav.css";
+@import "./common.blocks/main-nav/main-nav__nav-item.css";
 @import "./common.blocks/main-nav/main-nav__calls.css";
 @import "./common.blocks/main-nav/main-nav__phone.css";
 @import "./common.blocks/main-nav/main-nav__request-call.css";
