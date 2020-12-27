@@ -1,0 +1,9 @@
+.completed-projects__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  max-width: 37.8%;
+  min-width: min-content;
+  padding-top: 71px;
+}

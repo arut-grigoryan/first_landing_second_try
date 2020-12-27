@@ -1,0 +1,6 @@
+.completed-projects__image {
+  height: 480px;
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+}

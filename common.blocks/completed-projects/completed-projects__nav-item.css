@@ -1,0 +1,14 @@
+.completed-projects__nav-item {
+  font-size: 14px;
+  line-height: 19px;
+  padding-bottom: 7px;
+  margin: 0 10px;
+}
+
+.completed-projects__nav-item:first-child {
+  margin-left: 0;
+}
+
+.completed-projects__nav-item:last-child {
+  margin-right: 0;
+}

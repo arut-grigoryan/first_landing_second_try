@@ -1,0 +1,8 @@
+.completed-projects__conditions-cell {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-right: auto;
+  padding-right: 10px;
+}

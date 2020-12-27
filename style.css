@@ -2,6 +2,8 @@
 @import "./common.blocks/text/text--gold.css";
 @import "./common.blocks/text/text--uppercase.css";
 @import "./common.blocks/text/text--center.css";
+@import "./common.blocks/text/text--grey.css";
+@import "./common.blocks/text/text--font-family--yeseva-one.css";
 
 @import "./common.blocks/text-button/text-button.css";
 @import "./common.blocks/text-button/text-button--italic.css";
@@ -14,12 +16,21 @@
 @import "./common.blocks/button/button--radius--2px.css";
 
 @import "./common.blocks/nav/nav.css";
+@import "./common.blocks/nav/nav--flex-wrap--nowrap.css";
 @import "./common.blocks/nav/__item/nav__item.css";
+@import "./common.blocks/nav/__item/nav__item--hover--border-bottom.css";
+
+@import "./common.blocks/nav-image/nav-image.css";
+@import "./common.blocks/nav-image/nav-image__item.css";
+@import "./common.blocks/nav-image/__arrow/nav-image__arrow.css";
+@import "./common.blocks/nav-image/__arrow/nav-image__arrow--back.css";
+@import "./common.blocks/nav-image/__arrow/nav-image__arrow--next.css";
 
 @import "./common.blocks/page/page.css";
 @import "./common.blocks/page/page__header.css";
 @import "./common.blocks/page/page__main.css";
 @import "./common.blocks/page/page__offer.css";
+@import "./common.blocks/page/page__completed-projects.css";
 
 @import "./common.blocks/main-nav/main-nav.css";
 @import "./common.blocks/main-nav/main-nav__company-name.css";
@@ -35,3 +46,20 @@
 @import "./common.blocks/offer/offer__description.css";
 @import "./common.blocks/offer/offer__actions.css";
 @import "./common.blocks/offer/offer__action.css";
+
+@import "./common.blocks/completed-projects/completed-projects.css";
+@import "./common.blocks/completed-projects/completed-projects__description.css";
+@import "./common.blocks/completed-projects/completed-projects__header.css";
+@import "./common.blocks/completed-projects/completed-projects__text.css";
+@import "./common.blocks/completed-projects/completed-projects__conditions.css";
+@import "./common.blocks/completed-projects/completed-projects__conditions-row.css";
+@import "./common.blocks/completed-projects/completed-projects__conditions-cell.css";
+@import "./common.blocks/completed-projects/completed-projects__condition-header.css";
+@import "./common.blocks/completed-projects/completed-projects__condition-text.css";
+@import "./common.blocks/completed-projects/completed-projects__nav-image.css";
+@import "./common.blocks/completed-projects/completed-projects__nav-image-arrow.css";
+@import "./common.blocks/completed-projects/completed-projects__nav-image-item.css";
+@import "./common.blocks/completed-projects/completed-projects__nav-and-image.css";
+@import "./common.blocks/completed-projects/completed-projects__nav.css";
+@import "./common.blocks/completed-projects/completed-projects__nav-item.css";
+@import "./common.blocks/completed-projects/completed-projects__image.css";

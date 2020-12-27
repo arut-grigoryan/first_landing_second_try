@@ -1,0 +1,8 @@
+.completed-projects__conditions-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  min-width: min-content;
+  margin-bottom: 34px;
+}

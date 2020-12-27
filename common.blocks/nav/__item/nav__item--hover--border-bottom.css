@@ -1,0 +1,7 @@
+.nav__item--hover--border-bottom {
+  border-bottom: 1px solid transparent;
+}
+
+.nav__item--hover--border-bottom:hover {
+  border-bottom: 1px solid;
+}

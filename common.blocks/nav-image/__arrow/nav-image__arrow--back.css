@@ -1,0 +1,4 @@
+.nav-image__arrow--back {
+  background-image: url("./../image/arrow-back.svg");
+  background-position: 0 center;
+}

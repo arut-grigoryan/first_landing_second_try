@@ -1,0 +1,7 @@
+.completed-projects__nav-and-image {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-width: min-content;
+}
